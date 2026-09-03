@@ -1,0 +1,12 @@
+{
+  "background_color": "#5a189c",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Smart City agent Itinerary",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SCaI",
+  "start_url": "/",
+  "theme_color": "#cd0c84",
+  "id": "SCaI"
+}
