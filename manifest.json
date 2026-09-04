@@ -1,12 +1,17 @@
 {
-  "background_color": "#5a189c",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Smart City agent Itinerary",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "SCaI",
-  "start_url": "/",
-  "theme_color": "#cd0c84",
-  "id": "SCaI"
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "SCaI Android App Logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
